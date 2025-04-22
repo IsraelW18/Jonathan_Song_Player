@@ -1,4 +1,5 @@
-# Jonathan Song Player 🎵
+# Jonathan Song Player 🎵  (dev: Israel Wasserman
+[LinkedIn Profile](https://www.linkedin.com/in/israel-wasserman))
 
 A simple yet educational Python project that plays a familiar children's melody  
 using the PC speaker (`winsound`) while displaying real-time visual progress in the terminal.
@@ -27,6 +28,7 @@ This script demonstrates how to:
 ```bash
 jonathan_song_player/
 ├── main.py                  # Entry point – runs the full melody
+├── jonathan_song_demo.gif   # Console animation preview
 ├── README.md                # Project documentation
 ├── requirements.txt         # Dependencies (winsound is built-in on Windows)
 └── player/
@@ -38,7 +40,7 @@ jonathan_song_player/
 
 ---
 
-## 🧠 Educational Value
+## Educational Value
 
 - Teaches how to work with **winsound** and sound duration logic
 - Reinforces modular thinking in Python
@@ -47,7 +49,7 @@ jonathan_song_player/
 
 ---
 
-## 🚀 Requirements
+## Requirements
 
 - Python 3.x  
 - Windows OS (uses built-in `winsound` module – not supported on Linux/macOS)
@@ -69,7 +71,7 @@ Feel free to fork this repo or open an issue to suggest improvements.
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 
 **Israel Wasserman**  
 [LinkedIn Profile](https://www.linkedin.com/in/israel-wasserman)
