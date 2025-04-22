@@ -1,5 +1,5 @@
 # Jonathan Song Player 🎵
-**developer**: Israel Wasserman [LinkedIn Profile](https://www.linkedin.com/in/israel-wasserman)
+**Developer**: Israel Wasserman [LinkedIn Profile](https://www.linkedin.com/in/israel-wasserman)
 
 A simple yet educational Python project that plays a familiar children's melody  
 using the PC speaker (`winsound`) while displaying real-time visual progress in the terminal.
