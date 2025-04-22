@@ -73,5 +73,4 @@ Feel free to fork this repo or open an issue to suggest improvements.
 
 ## Developer
 
-**Israel Wasserman**  
-[LinkedIn Profile](https://www.linkedin.com/in/israel-wasserman)
+**Israel Wasserman** [LinkedIn Profile](https://www.linkedin.com/in/israel-wasserman)
